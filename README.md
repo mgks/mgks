@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 Hello there! I'm Ghazi, an open source developer. I work on various ideas, from web to machine languages. I'm currently working on [Dhwani](https://github.com/mgks/Dhwani), a machine learning project to generate music based on your mood.
 
-I infrequently work on some other projects too like [SWV](https://github.com/mgks/Android-SmartWebView) and [PaperlessQL](https://github.com/mgks/PaperlessQL) (you can go through my [repositories](https://github.com/mgks?tab=repositories) for more). And yes, I also have a blog [mgks.dev](https://mgks.dev) that I keep forgetting about, where I share all sort of ideas and rant about most of the stuff.
+I work on some other projects too like [SWV](https://github.com/mgks/Android-SmartWebView) and [PaperlessQL](https://github.com/mgks/PaperlessQL) (you can go through my [repositories](https://github.com/mgks?tab=repositories) for more). And yes, I also have a blog [mgks.dev](https://mgks.dev) that I keep forgetting about, where I share all sort of ideas and rant about most of the stuff.
 
 Still figuring out [Twitter](https://twitter.com/getmgks).
