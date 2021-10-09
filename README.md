@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! I'm Ghazi, an open source developer. I work on various ideas, from web to machine languages. I'm currently working on [Dhwani](https://github.com/mgks/Dhwani), a machine learning project to generate music based on user interests.
+<h4 align="center">hello there! 
+welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python and machine learning, and I hope to go somewhere with it this time. phew!</h4>
 
-Some of my other works include [SWV](https://github.com/mgks/Android-SmartWebView) and [PaperlessQL](https://github.com/mgks/PaperlessQL) (checkout my [repos](https://github.com/mgks?tab=repositories) for more). And yes, I also run a blog **[mgks.dev](https://mgks.dev)** that I keep forgetting about, where I share all sort of ideas and rant about most of the stuff.
+<p align="center">
+  <img width="250" src="https://raw.githubusercontent.com/mgks/mgks/main/res/zen.gif" ref="Zen by QTQR8R - http://www.ivyiby.com/zen">
+</p>
 
-I also make fun stories on [Instagram](https://www.instagram.com/getmgks/).
+<br />
+<p align="center"><a href="https://mgks.dev" title="Blog: mgks.dev"><img width="32" src="https://raw.githubusercontent.com/mgks/mgks/main/res/mgks.dev-logo-outline-50px.png" /></a> &nbsp; <a href="https://www.linkedin.com/in/mgks/" title="LinkedIn"><img width="32" src="https://img.icons8.com/linkedin" /></a> &nbsp; <a href="https://www.instagram.com/getmgks/" title="Instagram"><img width="32" src="https://img.icons8.com/instagram-new" /></a> &nbsp; <a href="https://ko-fi.com/getmgks" title="Support me on ko-fi"><img width="32" src="https://raw.githubusercontent.com/mgks/mgks/main/res/icons/ic-heart.png"></a></p>
