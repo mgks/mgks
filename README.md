@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h4 align="center">hello there! 
-welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python and machine learning, and I hope to go somewhere with it this time. phew!</h4>
+welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time. phew!</h4>
 
 <p align="center">
   <img width="250" src="https://raw.githubusercontent.com/mgks/mgks/main/res/zen.gif" ref="Zen by QTQR8R - http://www.ivyiby.com/zen">
