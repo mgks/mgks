@@ -1,4 +1,4 @@
-<br /><p align="center">
+<p align="center">
   <a href="https://github.com/mgks/zen"><img width="200" src="https://raw.githubusercontent.com/mgks/mgks/main/res/zen.gif" title="zen by @qtqr8r" ref="Zen by QTQR8R - http://www.ivyiby.com/zen"></a>
 </p>
 <h4 align="center">hello there! 
