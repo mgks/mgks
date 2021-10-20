@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="https://github.com/mgks/zen"><img width="250" src="https://raw.githubusercontent.com/mgks/mgks/main/res/zen.gif" title="zen by @qtqr8r" ref="Zen by QTQR8R - http://www.ivyiby.com/zen"></a>
+<br /><p align="center">
+  <a href="https://github.com/mgks/zen"><img width="200" src="https://raw.githubusercontent.com/mgks/mgks/main/res/zen.gif" title="zen by @qtqr8r" ref="Zen by QTQR8R - http://www.ivyiby.com/zen"></a>
 </p>
 <h4 align="center">hello there! 
 welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time. phew!</h4>
