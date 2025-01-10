@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mgks.github.io/zen"><img width="200" src="https://github.com/mgks/mgks/blob/main/res/zen.gif" title="zen by @qtqr8r" ref="Zen by QTQR8R"></a>
+  <a href="https://mgks.github.io/zen"><img width="200" src="https://github.com/mgks/mgks/blob/main/res/zen.png" title="zen by @qtqr8r" ref="Zen by QTQR8R"></a>
 </p>
 <h4 align="center">
   👋 hello there! welcome to my github, I spend most of my time building for the web and pushing open source projects into the wild — sometimes intentionally, sometimes by accident.
