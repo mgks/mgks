@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://mgks.github.io/zen">
-    <img width="280" src="https://github.com/mgks/mgks/blob/main/res/zen.gif" title="zen by @qtqr8r" alt="Zen by QTQR8R">
+    <img width="200" src="https://github.com/mgks/mgks/blob/main/res/zen.gif" title="zen by @qtqr8r" alt="Zen by QTQR8R">
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/mgks">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Shipping+Node.js+packages;Crafting+Web+Apps;Tinkering+with+AI+integrations;Waiting+for+Gradle+builds..." alt="Typing SVG" />
