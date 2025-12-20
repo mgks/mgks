@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img height="65" src="https://skillicons.dev/icons?i=nodejs,java,js,python,kotlin,md,regex,dynamodb&theme=dark" />
+  <img height="65" src="https://skillicons.dev/icons?i=nodejs,js,java,python,kotlin,md,regex,dynamodb&theme=dark" />
   <br/>
-  <img height="32" src="https://skillicons.dev/icons?i=html,css,php,mysql,mongodb,tensorflow,git,wordpress,vscode,androidstudio,aws&theme=dark" />
+  <img height="32" src="https://skillicons.dev/icons?i=html,css,tailwind,php,mysql,mongodb,tensorflow,git,wordpress,vscode,androidstudio,aws&theme=dark" />
 </p>
 
 <br/>
