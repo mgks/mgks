@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Shipping+Node.js+packages;Crafting+Web+Apps;Tinkering+with+AI+integrations;Waiting+for+Gradle+builds..." alt="Typing SVG" />
   </a>
 </p>
-
 <h4 align="center">
   👋 hello there! I engineer systems for the web and mobile. <br/>
   I spend most of my time building open source libraries, publishing npm packages, and crafting native applications.
