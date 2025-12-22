@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- Dynamic Stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mgks&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mgks&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgks&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
