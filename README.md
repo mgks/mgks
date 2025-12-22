@@ -22,7 +22,7 @@
 <p align="center">
   <img height="65" src="https://skillicons.dev/icons?i=js,nodejs,java,kotlin,md,regex,git&theme=dark" />
   <br/>
-  <img height="32" src="https://skillicons.dev/icons?i=html,css,tailwind,vite,php,mysql,dynamodb,mongodb,python,tensorflow,wordpress,vscode,aws&theme=dark" />
+  <img height="32" src="https://skillicons.dev/icons?i=html,css,tailwind,vite,php,mysql,dynamodb,python,tensorflow,vscode,aws&theme=dark" />
 </p>
 
 <br/>
