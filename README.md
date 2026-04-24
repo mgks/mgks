@@ -18,5 +18,5 @@
 <br/>
 
 <p align="center">
-  <code>i like keeping things simple and shipping fast.</code>
+  <code>i like keeping things simple and ship fast.</code>
 </p>
